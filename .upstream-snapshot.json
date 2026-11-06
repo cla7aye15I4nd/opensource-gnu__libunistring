@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "target": "cla7aye15I4nd/opensource-gnu__libunistring",
+  "canonical_upstream": "https://git.savannah.gnu.org/cgit/libunistring.git",
+  "source": {
+    "kind": "release",
+    "version": "1.5",
+    "revision": "5b0ecd46cbf225375f20ab4056197e66a7ac590e2684c069af407ae3383c9d81",
+    "archive_url": "https://ftpmirror.gnu.org/libunistring/libunistring-1.5.tar.gz",
+    "formula": "libunistring",
+    "upstream_url": "https://git.savannah.gnu.org/cgit/libunistring.git",
+    "source_checksum_matches_registry": true
+  },
+  "publication_review": {
+    "license_files": [
+      "COPYING",
+      "COPYING.LIB"
+    ],
+    "notice_files": [
+      "AUTHORS"
+    ],
+    "public_fixture_key_markers": []
+  },
+  "upstream_tree_sha256": "10dd69e8c833e052da371f2658888cdf9e0240a8af47756bb253d5b25f219674",
+  "tree_sha256": "38b6f6d5c8c30723fe5e331348bb36781fa142081d3e5a74bb34da4052706504"
+}
