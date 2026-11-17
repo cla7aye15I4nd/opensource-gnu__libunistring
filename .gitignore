@@ -2186,6 +2186,7 @@
 /Makefile.in
 /doc/Makefile.in
 /gnulib-local/Makefile.in
+/install-tests/Makefile.in
 /lib/Makefile.in
 /tests/Makefile.in
 /install-tests/Makefile.in
