@@ -896,6 +896,8 @@
 /lib/unictype/sy_java_whitespace.c
 /lib/unigbrk/gbrkprop.h
 /lib/unigbrk/u-grapheme-breaks.h
+/lib/unigbrk/u-grapheme-next.h
+/lib/unigbrk/u-grapheme-prev.h
 /lib/unigbrk/u16-grapheme-breaks.c
 /lib/unigbrk/u16-grapheme-next.c
 /lib/unigbrk/u16-grapheme-prev.c
